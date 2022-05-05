@@ -3,6 +3,8 @@ layout: post
 title: Article Review - Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [SocialMedia, Statistics]
+cover-img: /assets/img/top.jpg
+thumbnail-img: /assets/img/social.jpg
 tags: [SocialMedia, Statistics]
 #comments: true
 ---

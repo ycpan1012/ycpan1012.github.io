@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Article Review - Inflation Surges Worldwide as Covid-19 Lockdowns End and Supply Chains Can’t Cope
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/top.jpg
+thumbnail-img: /assets/img/inflation.jpg
 share-img: /assets/img/path.jpg
-tags: [Macroeconomics, COVID]
+tags: [Macroeconomics, COVID-19]
 ---
 
 The article is about the inflation surge and its subsequent problems in different economies around the world during the post-covid-19 era.
