@@ -10,7 +10,7 @@ As there are only a limited number of free or low cost vendors for financial dat
 
 
 ### Portfolio Optimization of NASDAQ-100
-![stock](/assets/img/stock2.jpg =50x25)<br><br>
+<img src="/assets/img/stock2.jpg" width="800" height="400"> <br><br>
 In 2020, more and more people enter the investment market, making portfolio optimization a hot issue. We developed [a mixed-integer linear programming model](https://github.com/ycpan1012/Portfolio-Optimization-Model), which applied to the NASDAQ-100 in the US stock market, to determine the optimal holding ratio between every asset. We also investigate the optimal trade-off between rate of return and risk to maximize profit.<br>
 
 
