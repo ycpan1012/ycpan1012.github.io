@@ -5,6 +5,8 @@ cover-img: /assets/img/ferris.jpg
 #subtitle: Something I have done
 ---
 
-### Portfolio Optimization of NASDAQ-100
+### Vice Director, NTUT Student Association
+I Organized and hosted a school orientation for 60+ incoming students and advised on course and major selection.
 
-In 2020, more and more people enter the investment market, making portfolio optimization a hot issue. Conventionally, most research studies employ the Mean-Variance model to calculate the expected return and potential risk. However, the downward variance is included in the risk estimate. In this project, we solved the classical problem of a portfolio optimization problem that an investor faces when investing in the stock market. We develop a mixed-integer linear programming model, which applied to the NASDAQ-100 in the US stock market, to determine the optimal holding ratio between every asset. We also investigate the optimal trade-off between rate of return and risk to maximize profit. To fit the real cases, we will consider fixed and proportional service fee, and initial capital. The scope of our project focuses on the stock market in 2020, and calculate optimization models based on investor personality, investment period, available capital, and maximum proportion.
+### Leader, NTUT Service-Learning Club, Taipei, Taiwan Feb 2016 - Jun 2016
+I led a team of 8 tutors in a charity that helped provide educational resources for students from remote areas. I paired students with tutors based on their personalities, and also organized several brainstorming sessions for our tutor team to design an interesting and creative curriculum that successfully motivated our students to learn subjects from math to social science.

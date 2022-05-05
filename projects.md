@@ -2,12 +2,12 @@
 layout: page
 title: Projects
 cover-img: /assets/img/projects.jpg
-#subtitle: Something I have done
+subtitle: Something I have done
 ---
 
 ### Development of an Application Programming Interface (API) for Real Time Financial Data in the Julia Programming Language
 <img src="/assets/img/wallst.jpg" width="700" height="350"> <br><br>
-As there are only a limited number of free or low cost vendors for financial data stream, therefore, I built [a Julia-based REST API](https://github.com/Paliquant/PQPolygonSDK.jl) that can access real-time exchange data from a web-based API called Polygon.io. The wrapper is capable of accessing 15+ different market data endpoints from US stock exchanges and reduce the time cost in data preprocessing by 60%.<br>
+As there are only a limited number of free or low cost vendors for financial data stream, therefore, I built [a Julia-based REST API](https://github.com/Paliquant/PQPolygonSDK.jl) that can access real-time exchange data from a web-based API called [Polygon.io](https://polygon.io/). The wrapper is capable of accessing 15+ different market data endpoints from US stock exchanges and reduce the time cost in data preprocessing by 60%.<br>
 
 
 ### Portfolio Optimization of NASDAQ-100
