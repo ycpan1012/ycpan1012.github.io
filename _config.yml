@@ -15,9 +15,7 @@ author: Yun-Chung Pan
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    - Portfolio Optimization of NASDAQ-100: "portfolio"
-    - Wine Quality Prediction: "https://www.markdowntutorial.com/"
+  Projects: "projects"
   Others: "https://deanattali.com"
 
 # --- Logo --- #
