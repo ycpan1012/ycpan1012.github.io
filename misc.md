@@ -1,6 +1,7 @@
+---
 layout: page
 title: Misc
-cover-img: /assets/img/ferria.jpg
+cover-img: /assets/img/ferris.jpg
 #subtitle: Something I have done
 ---
 
