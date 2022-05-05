@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Who I am?
+title: Portfolio Optimization of NASDAQ-100
+#subtitle: Who I am?
 ---
 
 Hi, this is George, welcome :) I am from Taiwan and currently studying computational informatics and chemical engineering at [Cornell](https://www.cornell.edu/). Before that I graduated from [NTUT](https://www-en.ntut.edu.tw/) with a bachelor degree in chemical engineering and biotechnology. I am passionate about workout, music (especially K-pop!), billiards, and data science!

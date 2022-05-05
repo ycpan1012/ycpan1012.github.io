@@ -16,7 +16,7 @@ author: Yun-Chung Pan
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Portfolio Optimization of NASDAQ-100: "https://beautifuljekyll.com"
+    - Portfolio Optimization of NASDAQ-100: "portfolio"
     - Wine Quality Prediction: "https://www.markdowntutorial.com/"
   Others: "https://deanattali.com"
 
@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/personal.png"
+avatar: "/assets/img/personal_photo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
