@@ -10,13 +10,12 @@ As there are only a limited number of free or low cost vendors for financial dat
 
 
 ### Portfolio Optimization of NASDAQ-100
-<img src="/assets/img/stock2.jpg" width="800" height="400"> <br><br>
+<img src="/assets/img/stock2.jpg" width="700" height="350"> <br><br>
 In 2020, more and more people enter the investment market, making portfolio optimization a hot issue. We developed [a mixed-integer linear programming model](https://github.com/ycpan1012/Portfolio-Optimization-Model), which applied to the NASDAQ-100 in the US stock market, to determine the optimal holding ratio between every asset. We also investigate the optimal trade-off between rate of return and risk to maximize profit.<br>
 
 
 ### Predicting Wine Preferences from Physicochemical Properties
-<img src="/assets/img/wine.jpg" width="600" height="300"> <br><br>
-![wine](/assets/img/wine.jpg)<br><br>
+<img src="/assets/img/wine.jpg" width="700" height="350"> <br><br>
 [In this project](https://github.com/ycpan1012/Wine-Quality-Prediction), I analyzed data of red and white variants from Portuguese Vinho Verde wine to identify chemical properties that would influence the quality of win using R. Utilizing machine learning algorithms including logistic regression, KNN, support vector machine, and random forest, I found a model that can best identify properties that affect the quality of red and white wine and forecast the classification with over 90% accuracy.<br/>
 
 
