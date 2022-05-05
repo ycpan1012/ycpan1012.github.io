@@ -16,7 +16,8 @@ author: Yun-Chung Pan
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  Others: "https://deanattali.com"
+  Resume: "CV"
+  Misc: "misc"
 
 # --- Logo --- #
 

@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Who I am?
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/about.jpg
 ---
 
 Hi, this is Yun-Chung (George). I am from Taiwan and currently studying computational informatics and chemical engineering at [Cornell](https://www.cornell.edu/). Before that I graduated from [NTUT](https://www-en.ntut.edu.tw/) with a bachelor degree in chemical engineering and biotechnology. I am passionate about workout, music (especially K-pop!), billiards, and data science! Being a data scientist allows me to keep exploring science in the most fashionable way.
