@@ -15,10 +15,10 @@ author: Yun-Chung Pan
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Projects: "https://deanattali.com"
+  Projects:
+    - Portfolio Optimization of NASDAQ-100: "https://beautifuljekyll.com"
+    - Wine Quality Prediction: "https://www.markdowntutorial.com/"
+  Others: "https://deanattali.com"
 
 # --- Logo --- #
 
