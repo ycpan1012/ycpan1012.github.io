@@ -7,7 +7,7 @@ cover-img: /assets/img/about.jpg
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a <strong>graduate researcher</strong> at <a href="https://www.cheme.cornell.edu/cbe" target="_blank">Cornell CBE</a>. Previously worked as a <strong>medical affairs intern</strong> at <a href="https://www.merck.com/" target="_blank">Merck</a> and <strong>data analyst</strong> in <a href="https://ar.ntut.edu.tw/lab/index?lab=1544" target="_blank">MT lab</a> at NTUT.
+Currently a <strong>graduate researcher</strong> at <a href="https://www.cheme.cornell.edu/cbe" target="_blank">Cornell CBE</a>. Previously worked as a <strong>medical affairs intern</strong> at <a href="https://www.merck.com/" target="_blank">Merck</a> developing health economic model to quantify the disease burden of HPV-relevant cancers in Taiwan, and <strong>data analyst</strong> in <a href="https://ar.ntut.edu.tw/lab/index?lab=1544" target="_blank">MT lab</a> at NTUT investigating self-assembly and interfacial phenomena of surfactants.
 </p>
 
 <p class="about-text">
